@@ -1,0 +1,10 @@
+node_modules/
+out/
+.DS_Store
+__pycache__/
+.env
+.env.*
+!.env.example
+public/my-*
+public/master-*.wav
+public/voice-*.mp3

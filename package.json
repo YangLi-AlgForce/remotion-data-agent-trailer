@@ -1,0 +1,33 @@
+{
+  "name": "remotion-data-agent-trailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "studio": "remotion studio src/index.tsx",
+    "render": "remotion render src/index.tsx ExcelDashboardCase out/demo.mp4",
+    "audio:demo": "python3 scripts/generate-demo-audio.py"
+  },
+  "keywords": [
+    "remotion",
+    "video",
+    "data-reporting",
+    "dashboard",
+    "animation",
+    "template"
+  ],
+  "author": "Quinn Yang Li and Alvin Zhe Xu",
+  "license": "MIT",
+  "description": "Editable cinematic Remotion trailer for ExcelDashboard.ai: data, charts, reports, credits and CRT shutdown.",
+  "dependencies": {
+    "@remotion/cli": "4.0.534",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.534"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YangLi-AlgForce/remotion-data-agent-trailer.git"
+  },
+  "homepage": "https://www.exceldashboard.ai"
+}

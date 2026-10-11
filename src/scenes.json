@@ -1,0 +1,121 @@
+[
+  {
+    "start": 0,
+    "end": 312,
+    "voice": "Where is the insight? I need a full analysis report. Send in the data reporting agent!",
+    "captions": [
+      "Where is the insight?",
+      "I need a full analysis report.",
+      "Send in the data reporting agent!"
+    ],
+    "phrases": [
+      "we asked",
+      "it gave"
+    ],
+    "captionStarts": [
+      24,
+      105,
+      213
+    ],
+    "voiceSelection": "B / The Grizzled Chicago Veteran"
+  },
+  {
+    "start": 312,
+    "end": 468,
+    "voice": "Meet ExcelDashboard A I. Your data reporting agent.",
+    "captions": [
+      "Meet ExcelDashboard AI.",
+      "Your data reporting agent."
+    ],
+    "phrases": [
+      "meet",
+      "your data"
+    ],
+    "captionStarts": [
+      0,
+      70
+    ],
+    "voiceSelection": "M1 / Adam - Compelling"
+  },
+  {
+    "start": 468,
+    "end": 696,
+    "voice": "Start with your raw data. Find the story. Plan your next move.",
+    "captions": [
+      "Start with your raw data.",
+      "Find the story.",
+      "Plan your next move."
+    ],
+    "phrases": [
+      "it investigates",
+      "finds",
+      "then builds"
+    ],
+    "captionStarts": [
+      0,
+      84,
+      150
+    ],
+    "voiceSelection": "M1 / Adam - Compelling"
+  },
+  {
+    "start": 696,
+    "end": 888,
+    "voice": "Get a complete PowerPoint report. Clear summaries. Actionable recommendations.",
+    "captions": [
+      "Get a complete PowerPoint report.",
+      "With clear summaries and actionable recommendations."
+    ],
+    "phrases": [
+      "not just",
+      "a complete"
+    ],
+    "captionStarts": [
+      0,
+      70
+    ],
+    "voiceSelection": "M1 / Adam - Compelling"
+  },
+  {
+    "start": 888,
+    "end": 1116,
+    "voice": "Native charts. Fully editable. Change the data. The chart updates.",
+    "captions": [
+      "Native charts. Fully editable.",
+      "Change the data.",
+      "The chart updates."
+    ],
+    "phrases": [
+      "native charts",
+      "change",
+      "and the"
+    ],
+    "captionStarts": [
+      0,
+      84,
+      127
+    ],
+    "voiceSelection": "M1 / Adam - Compelling"
+  },
+  {
+    "start": 1116,
+    "end": 1500,
+    "voice": "Raw data in. Editable reports out! ExcelDashboard dot A I. Case closed.",
+    "captions": [
+      "Raw data in. Editable reports out.",
+      "ExcelDashboard.ai.",
+      "Case closed."
+    ],
+    "phrases": [
+      "case closed",
+      "raw data",
+      "editable"
+    ],
+    "captionStarts": [
+      12,
+      117,
+      174
+    ],
+    "voiceSelection": "M1 / Adam - Compelling"
+  }
+]
